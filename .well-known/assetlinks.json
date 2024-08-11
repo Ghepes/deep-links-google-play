@@ -1,0 +1,15 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.envato.codecanyon",
+        "sha256_cert_fingerprints": [
+          "69:36:95:0D:A9:58:DD:59:EC:16:8C:27:D5:E3:B6:15:AA:33:0B:1F:7F:AA:65:FC:48:36:C4:1E:BF:A2:99:85"
+        ]
+      }
+    }
+  ]
+  
