@@ -1,0 +1,48 @@
+{
+  "name": "envato-codecanyon",
+  "version": "1.0.3",
+  "description": "Envato codecanyon, marketplace designed for developer. It provides code or theme olso plugins to help developer grow their business. This GPT, named Envato codecanyon marketplace app, is specially designed for developers. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest.",
+  "main": "serviceworker.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghepes/deep-links-google-play.git"
+  },
+  "keywords": [
+    "Assists",
+    "developers",
+    "finding",
+    "nearby",
+    "attractions",
+    "dining",
+    "emergency",
+    "services",
+    "friendly",
+    "location",
+    "suggest",
+    "ask",
+    "audio",
+    "text",
+    "ai",
+    "gpt",
+    "hotel",
+    "bar",
+    "tourist",
+    "accurate",
+    "information",
+    "providing",
+    "quic",
+    "responding",
+    "vacation",
+    "relevant",
+    "suggestions"
+  ],
+  "author": "Ghepes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghepes/deep-links-google-play/issues"
+  },
+  "homepage": "https://github.com/ghepes/deep-links-google-play#readme"
+}

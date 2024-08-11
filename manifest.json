@@ -1,0 +1,35 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "start_url": ".",
+  "id": ".",
+  "short_name": "App Envato codecanyon",
+  "name": "Envato codecanyon - An app that helps you connect from any device to Envato codecanyon.",
+  "description": "You can install Envato codecanyon on any device, even a television, and you can enter the marketplace panel to view everything to marketplace that belongs to you. You are personalized as this app has no connection like Google Add or not have tracking, we personally who created this app cannot check what you are doing, maybe only the third parties like Google Play or others that have their own tracking methods because we use their services.",
+  "icons": [
+    {
+      "src": "assets/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/images/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
